@@ -1,0 +1,11 @@
+ Mcdonald app development
+ 
+ Author -Shirley
+ 
+ 1.Login Functionality code
+ 2.Menu Functionality code
+ 3.Add to cart code
+ 4.Payment code
+ 5.Logout code
+ 
+ 
