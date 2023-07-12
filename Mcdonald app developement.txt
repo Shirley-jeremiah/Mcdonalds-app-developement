@@ -6,7 +6,7 @@
  2.Menu Functionality code
  3.Add to cart code
  4.Coupon code use code
- 5.Payment code
- 6.Logout code
- 7.combo plan
- 
+ 5.combo plan
+ 6.Payment code
+ 7.Adding points to your account functionality code
+ 8.Logout code
