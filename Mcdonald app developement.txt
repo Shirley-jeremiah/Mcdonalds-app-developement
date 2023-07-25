@@ -10,3 +10,5 @@
  6.Payment code
  7.Adding points to your account functionality code
  8.Logout code
+ 9.Birthday month coupon code functionality
+
